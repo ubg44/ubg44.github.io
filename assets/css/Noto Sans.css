@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Noto Sans';
-	src: url(../../assets/fonts/Noto%20Sans-b4cd022a58f02ea419983f3f3e8a8608.woff2) format('woff2');
+	src: url(../../assets/fonts/Noto%20Sans-e502e910f533e79e6fdfce8afdf24ffe.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -9,7 +9,7 @@
 
 @font-face {
 	font-family: 'Noto Sans';
-	src: url(../../assets/fonts/Noto%20Sans-e00353f1dc3528504b8157cfd14e0ad0.woff2) format('woff2');
+	src: url(../../assets/fonts/Noto%20Sans-a4e4555635ecf0ba2df127067f433918.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -18,16 +18,16 @@
 
 @font-face {
 	font-family: 'Noto Sans';
-	src: url(../../assets/fonts/Noto%20Sans-8e5bec8cd6d0409755120e5fc01fe60d.woff2) format('woff2');
+	src: url(../../assets/fonts/Noto%20Sans-83a050db27244539bce8ca0ec9642acc.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
-	unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+	unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09;
 }
 
 @font-face {
 	font-family: 'Noto Sans';
-	src: url(../../assets/fonts/Noto%20Sans-95684fb1943447066e1706aa8ae1b064.woff2) format('woff2');
+	src: url(../../assets/fonts/Noto%20Sans-e3bb49a89520050d20b45c0448e1e7a9.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -36,16 +36,16 @@
 
 @font-face {
 	font-family: 'Noto Sans';
-	src: url(../../assets/fonts/Noto%20Sans-315eb042030eeaf5ddab29dd0600b527.woff2) format('woff2');
+	src: url(../../assets/fonts/Noto%20Sans-8e9c940f10ac46a976024684dd0930da.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
-	unicode-range: U+0370-03FF;
+	unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
 }
 
 @font-face {
 	font-family: 'Noto Sans';
-	src: url(../../assets/fonts/Noto%20Sans-9ac9d67412ce2ce89d30bf11f5a1442f.woff2) format('woff2');
+	src: url(../../assets/fonts/Noto%20Sans-20feb2d896a469247d0bc3f4a1cfc12a.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -54,16 +54,16 @@
 
 @font-face {
 	font-family: 'Noto Sans';
-	src: url(../../assets/fonts/Noto%20Sans-e0eea46cd5bb3f2cb43a16d802576926.woff2) format('woff2');
+	src: url(../../assets/fonts/Noto%20Sans-45ecc01d7235cdf76603bef967cf97a7.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
-	unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+	unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
 @font-face {
 	font-family: 'Noto Sans';
-	src: url(../../assets/fonts/Noto%20Sans-cf3cecbc92364ed9537c64de32b6adf1.woff2) format('woff2');
+	src: url(../../assets/fonts/Noto%20Sans-a85cff9fcc02fb0a945df45f6d734f96.woff2) format('woff2');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
